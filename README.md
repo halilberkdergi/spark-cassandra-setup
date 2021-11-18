@@ -68,7 +68,7 @@ nano .\bashrc
 ````
 Write at the bottom.
 ```` 
-export CASSANDRA_HOME=/home/hbd/cassandra
+export CASSANDRA_HOME=/home/$USER/cassandra
 export PATH=$PATH:$CASSANDRA_HOME/bin
 ````
 Press Ctrl + S and then Ctrl + X .
