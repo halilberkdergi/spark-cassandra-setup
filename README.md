@@ -96,7 +96,7 @@ sudo apt-get install ipython3
 pip3 install jupyter
 ````
 ```` 
-pip3 install jupyter
+pip3 install notebook
 ````
 - Edit Bashrc.
 ```` 
