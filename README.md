@@ -88,7 +88,7 @@ nodetool status
 nodetool stopdaemon
 ````
 
-# 3 Jupyter Notebook + Pyspylon_Kernel Setup
+# 3 Jupyter Notebook + Spylon_Kernel Setup
 ```` 
 sudo apt-get install ipython3
 ````
@@ -115,7 +115,7 @@ Press Ctrl + S and then Ctrl + X .
 ```` 
 source .\bashrc
 ````
-- Install Pysplon Kernel
+- Install Splon Kernel
 ```` 
 pip3 install spylon-kernel
 ````
